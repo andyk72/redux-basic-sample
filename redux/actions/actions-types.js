@@ -1,0 +1,5 @@
+module.exports = {
+    CLAIM_CREATE: 'CLAIM_CREATE',
+    POLICY_CREATE: 'POLICY_CREATE',
+    POLICY_DELETE: 'POLICY_DELETE',
+};
